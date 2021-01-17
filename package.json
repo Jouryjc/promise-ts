@@ -2,6 +2,9 @@
     "name": "promise-ts",
     "version": "1.0.0",
     "main": "lib/index.js",
+    "files": [
+        "lib"
+    ],
     "repository": "https://github.com/Jouryjc/promise-ts.git",
     "author": "Jouryjc <494208562@qq.com>",
     "license": "MIT",
