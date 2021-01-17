@@ -2,5 +2,6 @@
     "tabWidth": 4,
     "singleQuote": true,
     "useTabs": true,
-    "bracketSpacing": true
+    "bracketSpacing": true,
+    "semicolons": false
 }
